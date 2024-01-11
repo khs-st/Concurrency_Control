@@ -2,3 +2,5 @@
 How to solve concurrency control with stock system
 
 JIRA CONNECT TEST
+
+CONNECT CC-1
